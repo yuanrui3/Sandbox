@@ -1,1 +1,4 @@
-hello world!
+Steven Michelotti
+EE Freshman Class of 2019
+Interests: Reading, longboarding, electronics, music
+Rules Fact: Any exposed connectors or possible conducters with more than 32v must be labeled "High Voltage" with letters 10mm high... no 12p font I guess
