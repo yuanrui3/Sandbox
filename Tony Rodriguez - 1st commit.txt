@@ -1,6 +1,7 @@
 Name: Tony Rodriguez
 Year: Junior
 Interests: Woodworking, making things, photography, racquetball
+<<<<<<< HEAD:Tony Rodriguez - 1st commit.txt
 What I learned: I learned that you have to obey speed limits and all traffic 
 
 
@@ -9,3 +10,6 @@ What I learned: I learned that you have to obey speed limits and all traffic
 
 rules during the race or else you get penalized.
 
+=======
+What I learned: I learned that you have to obey speed limits and all traffic rules during the race or else you get penalized.
+>>>>>>> parent of 24bf028... testing:Tony Rodriguez - advanced gittery
