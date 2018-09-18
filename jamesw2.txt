@@ -1,1 +1,2 @@
 Grrr! I am a conflict!
+Hello Everyone! I am a file!
